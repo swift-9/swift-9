@@ -31,24 +31,24 @@
 ## 🏗 Featured Projects
 
 - **RideAtlas Orbit** – Global trip planner w/ Google Maps & globe visualization [[Live](https://ride-atlas-orbit.vercel.app/)]  
-- **ESP32 Radar System** – Ultrasonic + servo motor live visualization [[Wokwi Demo](https://wokwi.com/)]  
+- **ESP32 Radar System** – Ultrasonic + servo motor live visualization [[Wokwi Demo][(https://wokwi.com/](https://wokwi.com/projects/439187227387371521))]  
 - **Smart Agriculture System** – Automated watering using soil, temp & humidity sensors  
-- **RideAtlas EX** – React-based trip planner hosted on Vercel  
+- **RideAtlas EX** – React-based trip planner hosted on Vercel[[Live](https://ride-atlas-EX.vercel.app/)]    
 
 ---
 
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=react&hide=contribs&count_private=true" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=react" />
+  <img src="https://github-readme-stats.vercel.app/api?username=swift-9&show_icons=true&theme=react&hide=contribs&count_private=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=swift-9&theme=react" />
 </div>
 
 ---
 
 ## 🤝 Connect with Me
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](YOUR_LINKEDIN_LINK)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://swift-9.github.io/swastik-portfolio/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/swastik-poojary)
 [![Wokwi](https://img.shields.io/badge/-Wokwi-0A66C2?style=flat&logo=internetexplorer&logoColor=white)](YOUR_WOKWI_PROJECTS_LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/swift-9)
