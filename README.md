@@ -33,7 +33,8 @@
 - **RideAtlas Orbit** – Global trip planner w/ Google Maps & globe visualization [[Live](https://ride-atlas-trip-planner.vercel.app/)]  
 - **ESP32 Radar System** – Ultrasonic + servo motor live visualization [[Wokwi Demo][(https://wokwi.com/](https://wokwi.com/projects/439187227387371521)]  
 - **Smart Agriculture System** – Automated watering using soil, temp & humidity sensors  
-- **RideAtlas EX** – React-based trip planner hosted on Vercel[[Live](https://ride-atlas-EX.vercel.app/)]    
+- **RideAtlas EX** – React-based trip planner hosted on Vercel[[Live](https://ride-atlas-EX.vercel.app/)]
+- - **Self-Driving-Car** – Javascript-based neural network for ML car where user trains and picks models, hosted on Vercel[[Live](https://self-driving-car-js-sand.vercel.app/)]
 
 ---
 
